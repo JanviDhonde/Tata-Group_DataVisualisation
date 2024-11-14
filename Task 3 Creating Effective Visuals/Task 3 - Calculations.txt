@@ -1,0 +1,8 @@
+Filters
+1. [Quantity] > 0
+2. Invoice > 1/1/2011
+3. [UnitPrice] > 0
+
+
+Calculated Column
+Revenue = 'Online Retail'[Quantity]*'Online Retail'[UnitPrice]
